@@ -5,8 +5,8 @@ from machine import Pin
 import machine
 
 # GLOBAL_VARIABLES
-ssid = "TP-Link_0A51"
-password = "11111111"
+ssid = "YOUR-WIFI-SSID"
+password = "YOUR-WIFI-PASSWORD"
 led = Pin(1, Pin.OUT)
 wlan = None
 
